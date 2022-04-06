@@ -1,16 +1,59 @@
-### Hi there 👋
+### :name_badge: Nay Aung MBBS MRCP PhD
 
-<!--
-**nay421/nay421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an academic clinical lecturer in cardiology with special interest in cardiovascular genomics and cardiac imaging. I am interested in data science education, biostatistics, epidemiology, population genetics, machine learning and predictive modelling techniques. My research actvities include the genetic epidemiology of cardiac imaging phenotypes, causal inferencing using Mendelian Randomisation, development of personalised risk prediction algorithms, machine learning in healthcare, and the automation of image analysis by deep learning.
 
-Here are some ideas to get you started:
+### :speaker: I'm interested in...
+<p align="left">
+<a href="https://mlnotebook.github.io">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
+</a>  
+<img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+  
+
+### :pushpin: You can also find me...
+<p align="left">
+<a href="https://twitter.com/NayAungMD">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+</a>  
+
+<a href="https://www.linkedin.com/in/nay-aung-9a591a149/">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://scholar.google.com/citations?user=K-_DAdgAAAAJ&hl=en">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/scholar.svg" alt="GoogleScholar" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+### :construction: I build with...
+
+<p align="left">
+  
+<a href="https://www.r-project.org/">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+</a>
+  
+<a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://www.tensorflow.org/">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/tensorflow.svg" alt="TensorFlow" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://www.pytorch.org/">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/pytorch.svg" alt="PyTorch" style="vertical-align:top; margin:4px">
+</a>
+ 
+</p>
+
+### :wrench: I use...
+
+<p align="left">
+<a href="https://www.gnu.org/software/bash/">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+</a>
+
+</p>
