@@ -5,7 +5,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 ### :speaker: I'm interested in...
 <p align="left">
 <a href="https://mlnotebook.github.io">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
 </a>  
 <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px">
 
@@ -15,7 +15,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 ### :pushpin: You can also find me...
 <p align="left">
 <a href="https://twitter.com/NayAungMD">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>  
 
 <a href="https://www.linkedin.com/in/nay-aung-9a591a149/">
