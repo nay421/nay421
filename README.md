@@ -32,7 +32,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 <p align="left">
   
 <a href="https://www.r-project.org/">
-    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/r.svg" alt="R" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/r.svg" alt="R" style="vertical-align:middle; margin:4px">
 </a>
   
 <a href="https://www.python.org/">
