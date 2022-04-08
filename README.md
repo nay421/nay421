@@ -7,7 +7,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 <a href="https://mlnotebook.github.io">
     <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
 </a>  
-<img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px">
 
 </p>
   
@@ -44,7 +44,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 </a>
 
 <a href="https://www.pytorch.org/">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/pytorch.svg" alt="PyTorch" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/pytorch.svg" alt="PyTorch" style="vertical-align:top; margin:4px">
 </a>
  
 </p>
@@ -53,7 +53,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 
 <p align="left">
 <a href="https://www.gnu.org/software/bash/">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
 </a>
 
 </p>
