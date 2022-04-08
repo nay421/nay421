@@ -19,11 +19,11 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 </a>  
 
 <a href="https://www.linkedin.com/in/nay-aung-9a591a149/">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
 </a>
 
 <a href="https://scholar.google.com/citations?user=K-_DAdgAAAAJ&hl=en">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/scholar.svg" alt="GoogleScholar" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/nay421/nay421/master/images/badges/scholar.svg" alt="GoogleScholar" style="vertical-align:top; margin:4px">
 </a>
 </p>
 
@@ -32,11 +32,11 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 <p align="left">
   
 <a href="https://www.r-project.org/">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/R.svg" alt="R" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/nay421/nay421/master/images/badges/R.svg" alt="R" style="vertical-align:top; margin:4px">
 </a>
   
 <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/python.svg" alt="Python" style="vertical-align:top; margin:4px">
 </a>
 
 <a href="https://www.tensorflow.org/">
