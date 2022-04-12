@@ -4,9 +4,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 
 ### :speaker: I'm interested in...
 <p align="left">
-<a href="https://mlnotebook.github.io">
-    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
-</a>  
+<img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px">
 
 </p>
