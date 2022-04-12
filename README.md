@@ -45,6 +45,10 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
     <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/pytorch.svg" alt="PyTorch" style="vertical-align:top; margin:4px">
 </a>
  
+<a href="https://shiny.rstudio.com/">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/shiny_resized.png" alt="Shiny" style="vertical-align:top; margin:4px">
+</a>
+  
 </p>
 
 ### :wrench: I use...
