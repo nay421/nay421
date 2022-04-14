@@ -46,7 +46,7 @@ I am an academic clinical lecturer in cardiology with special interest in cardio
 </a>
  
 <a href="https://shiny.rstudio.com/">
-    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/shiny.png" alt="Shiny" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/nay421/nay421/master/images/badges/shiny_resized.png" alt="Shiny" style="vertical-align:top; margin:4px">
 </a>
   
 </p>
