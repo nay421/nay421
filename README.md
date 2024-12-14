@@ -1,6 +1,6 @@
 ### :name_badge: Nay Aung MBBS MRCP PhD
 
-I am an academic clinical lecturer in cardiology with special interest in cardiovascular genomics and cardiac imaging. I am interested in data science education, biostatistics, epidemiology, population genetics, machine learning and predictive modelling techniques. My research actvities include the genetic epidemiology of cardiac imaging phenotypes, causal inferencing using Mendelian Randomisation, development of personalised risk prediction algorithms, machine learning in healthcare, and the automation of image analysis by deep learning.
+I am a clinical senior lecturer and a consultant cardiologist with special interest in cardiovascular genomics and cardiac imaging. I am interested in data science education, biostatistics, epidemiology, population genetics, machine learning and predictive modelling techniques. My research actvities include the genetic epidemiology of cardiac imaging phenotypes, causal inferencing using Mendelian Randomisation, development of personalised risk prediction algorithms, machine learning in healthcare, and the automation of image analysis by deep learning.
 
 ### :speaker: I'm interested in...
 <p align="left">
